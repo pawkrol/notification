@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="address" type="id"/>
+    <item name="blinkBtn" type="id"/>
+    <item name="checkBtn" type="id"/>
+    <item name="removeBtn" type="id"/>
+    <item name="modeZeroBtn" type="id"/>
+    <item name="modeOneBtn" type="id"/>
+</resources>

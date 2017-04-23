@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotificationApp</string>
+    <string name="setAddress">set address</string>
+    <string name="blink">blink</string>
+    <string name="check">check</string>
+    <string name="remove">remove</string>
+</resources>
